@@ -75,12 +75,14 @@ npm start
 
 
 ### 📌 Future Improvements
+
 1. Add user authentication <br>
 2. Enable payment method selection (UPI, Card, Wallet) <br>
 3. Add downloadable PDF receipt support <br>
 4. Deploy with Docker or Vercel + Render <br>
 
 ### 👨‍💻 Author
+
 **Mahanth K S** <br>
 Supermarket Billing System <br>
 
