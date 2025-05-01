@@ -32,3 +32,37 @@ Directory structure: <br>
     │       └── SupermarketBillingApp.jsx <br>
     └── server/ <br>
         └── Pay.py <br>
+
+
+
+---
+
+## 🚀 Features
+
+- 🧾 Add items to cart with name, price, and quantity
+- 💵 Auto calculation of GST (5%)
+- 🧮 Real-time billing summary
+- 🧑‍💼 Generate and print/download invoice
+- 💳 Razorpay payment gateway integration
+- 📆 Real-time date & time display
+- 🎨 Fully responsive and styled with Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend       | Backend       | Payment Gateway |
+|----------------|----------------|------------------|
+| React.js       | Flask (Python) | Razorpay         |
+| Tailwind CSS   | SQLite         |                  |
+
+---
+
+## 📦 Setup Instructions
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/mahi0331-supermarket-billing-system.git
+cd mahi0331-supermarket-billing-system
+
