@@ -1,4 +1,4 @@
-# Supermarket Billing System
+# 🏬 Supermarket Billing System 🏪
 
 A complete web-based billing application for supermarkets, built with **React** for the frontend and **Flask** for the backend, including **Tailwind CSS** for styling and **Razorpay** integration for online payments.
 
@@ -6,17 +6,17 @@ A complete web-based billing application for supermarkets, built with **React** 
 
 ## 🚀 Features
 
-- Add items to cart with name, price, and quantity
+- ➕💰 Add items to cart with name, price, and quantity
 - 💵 Auto calculation of GST (5%)
--  Real-time billing summary
-- Generate and print/download invoice
+- 📊 Real-time billing summary
+- 📄 Generate and print/download invoice
 - 💳 Razorpay payment gateway integration
 - 📆 Real-time date & time display
 - 🎨 Fully responsive and styled with Tailwind CSS
 
 ---
 
-## Tech Stack
+### 💡 Tech Stack
 
 | Frontend       | Backend       | Payment Gateway |
 |----------------|----------------|------------------|
@@ -61,16 +61,16 @@ npm start
 2. Backend creates an order via Razorpay API <br>
 
 ### 📷 Screenshots
-### Dark Mode
+### Dark Mode 🌙
 ![Screenshot 2025-05-01 204530](https://github.com/user-attachments/assets/f4392f1e-6527-4fe4-b6b2-24e254484a40)
 
-### Light Mode
+### Light Mode ☀️
 ![Screenshot 2025-05-01 204849](https://github.com/user-attachments/assets/c6e7b12b-838e-432e-bdc1-7fd7ce2cdb09)
 
-### Razorpay Gateway
+### Razorpay Gateway 📲
 ![Screenshot 2025-05-01 204545](https://github.com/user-attachments/assets/3e417d68-be39-42a6-bc5b-c133bd970da6)
 
-### Invoice Generation (PDF Downloading)
+### Invoice Generation (PDF Downloading) 🌐⬇️
 ![Screenshot 2025-05-01 204615](https://github.com/user-attachments/assets/2a64e5cc-e8ef-49e1-822b-d0e7fcdab883)
 
 
@@ -83,7 +83,7 @@ npm start
 
 ### 👨‍💻 Author
 
-**Mahanth K S** <br>
+## **Mahanth K S** <br>
 Supermarket Billing System <br>
 
 ## 📝 License
