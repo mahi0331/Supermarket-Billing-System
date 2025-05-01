@@ -1,0 +1,27 @@
+1. creating.env python environment
+
+python -m venv .venv
+
+2. installing razorpay
+
+pip install razorpay
+
+3. installing flask
+
+pip install flask
+
+4. installing cores 
+
+pip install flask flask-cors razorpay
+
+5. installing pk_resources
+
+pip install setuptools
+
+6. run frontend
+
+npm start
+
+7. run backend
+
+python Pay.py
