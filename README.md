@@ -84,6 +84,9 @@ npm start
 **Mahanth K S** <br>
 Supermarket Billing System <br>
 
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 
 
