@@ -56,11 +56,15 @@ npm start
 ```
 ### The React app will run at: http://localhost:3000
 
-### 💳 Razorpay Integration
+---
+
+## 💳 Razorpay Integration
 1. Uses Razorpay Checkout.js in the frontend <br>
 2. Backend creates an order via Razorpay API <br>
 
-### 📷 Screenshots
+---
+
+## 📷 Screenshots
 ### Dark Mode 🌙
 ![Screenshot 2025-05-01 204530](https://github.com/user-attachments/assets/f4392f1e-6527-4fe4-b6b2-24e254484a40)
 
@@ -73,18 +77,19 @@ npm start
 ### Invoice Generation (PDF Downloading) 🌐⬇️
 ![Screenshot 2025-05-01 204615](https://github.com/user-attachments/assets/2a64e5cc-e8ef-49e1-822b-d0e7fcdab883)
 
+---
 
-### 📌 Future Improvements
+## 📌 Future Improvements
 
 1. Add user authentication <br>
 2. Enable payment method selection (UPI, Card, Wallet) <br>
 3. Add downloadable PDF receipt support <br>
 4. Deploy with Docker or Vercel + Render <br>
 
-### 👨‍💻 Author
+---
 
-## **Mahanth K S** <br>
-Supermarket Billing System <br>
+## 👨‍💻 Author
+**Mahanth K S** <br>
 
 ## 📝 License
 
